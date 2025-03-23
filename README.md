@@ -2,10 +2,6 @@
 
 Go-Whisper is a command-line tool for transcribing video files using OpenAI's Whisper API. It extracts audio from videos, transcribes it using OpenAI's speech-to-text model, and can optionally embed the transcription as subtitles back into the video.
 
-## Author
-
-**Aren Hovsepyan**
-
 ## Features
 
 - Extract audio from video files
@@ -176,3 +172,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [OpenAI Whisper](https://openai.com/research/whisper) for the speech recognition model
 - [Cobra](https://github.com/spf13/cobra) for the CLI framework
 - [FFmpeg](https://ffmpeg.org/) for media processing 
+
+## Author
+
+[**Aren Hovsepyan**](https://aren.pro) © All Rights Reserved  
+
